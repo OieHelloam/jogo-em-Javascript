@@ -7,5 +7,3 @@ O projeto é jogo de naves utilizando HTML, CSS e Javascript, que foi realizado 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 💻️Javascript 💻️Visual Studio Code
-
-### Feito com ❤️ por hellenm
